@@ -6,6 +6,3 @@ def sub(*args):
     return sum
 
 
-
-
-print('test')
